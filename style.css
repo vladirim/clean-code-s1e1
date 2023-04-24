@@ -41,10 +41,12 @@
     margin: 0;
     padding: 0px;
 }
-#list-item, .section-name {
+#list-item,
+.section-name {
     list-style: none;
 }
-.input, .button{
+.input,
+.button{
     outline: none;
 }
 .button {
