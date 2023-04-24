@@ -18,8 +18,11 @@
 }
 
 @media (max-width:768px) {
-.matrix-pic { text-align: center;
-}
+
+    .matrix-pic {
+        text-align: center;
+    }
+
 }
 .main-page {
     display: block;
